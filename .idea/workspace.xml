@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/shibo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKSortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKSortedLinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,14 +22,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No23MergeKSortedLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No23MergeKSortedLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKSortedLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+            <state relative-caret-position="-50">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="e#324#325#0" expanded="true" />
                 <element signature="e#355#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No23MergeKLists.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,6 +64,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKSortedLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKLists.java" />
       </list>
     </option>
   </component>
@@ -83,6 +95,12 @@
               <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeRelated" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,6 +216,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Fibonaccisequence/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -208,11 +231,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKSortedLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        <state relative-caret-position="-50">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No23MergeKLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
           </folding>
         </state>
       </provider>

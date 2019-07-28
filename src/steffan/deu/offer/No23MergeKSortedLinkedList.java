@@ -54,6 +54,4 @@ public class No23MergeKSortedLinkedList {
         return head;
     }
 
-
-
 }
