@@ -10,7 +10,7 @@ package steffan.deu.offer;
  */
 public class No23MergeKSortedLinkedList {
 
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
 

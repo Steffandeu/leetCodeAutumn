@@ -2,6 +2,10 @@ package steffan.deu.offer;
 
 import steffan.deu.offer.No23MergeKSortedLinkedList.ListNode;
 
+import java.util.Comparator;
+import java.util.PriorityQueue;
+import java.util.Queue;
+
 
 public class No23MergeKLists {
 
@@ -36,4 +40,38 @@ public class No23MergeKLists {
         return null;
     }
 
+
+    /**
+     * 优先队列的问题 priority queue
+     * 鸡皮疙瘩都有一点
+     * 哈哈哈哈哈哈那你又在电影院看过恐怖片吗，有人陪着看要好一点
+     */
+
+    public static ListNode queueMerge(ListNode[] lists){
+        Comparator<ListNode> comparator = new Comparator<ListNode>() {
+            @Override
+            public int compare(ListNode o1, ListNode o2) {
+                return o1.val-o2.val;
+            }
+        };
+        //简历队列
+        Queue<ListNode> listNodeQueue = new PriorityQueue<>(comparator);
+        for (ListNode l :lists){
+            if (l!=null){
+                listNodeQueue.add(l);
+            }
+        }
+        ListNode head = new ListNode(0);
+        ListNode point = head;
+        while(!listNodeQueue.isEmpty()){
+            point.next = listNodeQueue.poll();
+            point = point.next;
+            //判断列表是否为空，不为空就将新元素入队
+            ListNode next = point.next;
+            if (next!=null){
+                listNodeQueue.add(next);
+            }
+        }
+        return head.next;
+    }
 }
