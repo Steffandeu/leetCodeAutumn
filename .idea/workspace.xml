@@ -24,15 +24,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcodeNo10Problem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/leetcodeNo10Problem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1312">
-              <caret line="82" column="32" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="lcNo10DpSolution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/lcNo10DpSolution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No541ReverseString2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No541ReverseString2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No541ReverseString2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No12RomanToInteger.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -168,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No198RobHouse.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No334ReverseString.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No541ReverseString2.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java" />
       </list>
     </option>
   </component>
@@ -362,6 +363,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -408,13 +410,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -765,6 +760,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
