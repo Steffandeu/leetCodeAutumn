@@ -32,4 +32,8 @@ for(int i=0;i<=len;i++)
    for(int i=5;i<=6;i++)
    输出de
 
-6: 循环 i= 4
+6: 循环 i= 4 进入下一轮循环i-- i=3
+   输出cb
+
+7：upper：i = 10 进入下一轮循环i++ i=11；
+   输出hijk
