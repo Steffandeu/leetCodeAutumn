@@ -1,0 +1,39 @@
+假设字符串：
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14   index
+a ( b c ( d e ) f g )  h  i  j  k    string
+
+首先将括号配对(用两个数组分别记录左括号对应右括号的的位置 和 右括号对应左括号的位置):
+
+st[0] = 1
+st[1] = 4
+le[7] = 4
+le[10] = 1
+ri[1] = 10
+ri[4] = 7
+
+1: 进入递归
+dfs(0,len-1,false)--->dfs(0,14,false);
+for(int i=0;i<=len;i++)
+输出：a
+
+2: 循环i=1,此时char[i] = '(';
+   dfs(i+1,r[i]-1,true)--->dfs(2,9,true);
+   i = 10;
+
+3: dfs(2,9,true)-->逆序输出
+   for(int i =9;i>=2;i--)
+   输出gf
+
+4: i = 7, 此时char[i] = ')'
+   dfs(le[i]+1,i-1,false)--->dfs(5,6,false);
+   i = le[i]=4
+
+5: dfs(5,6,false)--->正序输出(括号嵌套)
+   for(int i=5;i<=6;i++)
+   输出de
+
+6: 循环 i= 4 进入下一轮循环i-- i=3
+   输出cb
+
+7：upper：i = 10 进入下一轮循环i++ i=11；
+   输出hijk
