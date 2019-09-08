@@ -17,11 +17,11 @@ public class No410SplitArrayLargestSum {
         }
         if (i==n) return;
         if (i>0){
-            System.out.println("第一个类别的dfs...此时i为 "+i + " cntSubarrays: " + cntSubarrays);
+//            System.out.println("第一个类别的dfs...此时i为 "+i + " cntSubarrays: " + cntSubarrays);
             dfs(nums,i+1,cntSubarrays,curSum+nums[i],Math.max(curMax,curSum+nums[i]));
         }
         if (cntSubarrays<m){
-            System.out.println("第二个类别的dfs...此时i为 "+i );
+//            System.out.println("第二个类别的dfs...此时i为 "+i );
             dfs(nums,i+1,cntSubarrays+1,nums[i],Math.max(curMax,nums[i]));
         }
     }
@@ -31,6 +31,6 @@ public class No410SplitArrayLargestSum {
         No410SplitArrayLargestSum no410SplitArrayLargestSum = new No410SplitArrayLargestSum();
         int[] nums = new int[]{7,2,5,10,8};
         int m = 2;
-        no410SplitArrayLargestSum.splitArray(nums,m);
+        System.out.println(no410SplitArrayLargestSum.splitArray(nums,m));
     }
 }
