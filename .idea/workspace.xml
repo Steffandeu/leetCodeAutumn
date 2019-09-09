@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/Tecent/PermutationAndCombination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/Tecent/PermutationAndCombination.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,11 +42,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationAndCombination.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PermutationAndCombination.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+            <state relative-caret-position="375">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalTestProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-169">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinalTestProblem2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -88,24 +111,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No337RobHouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No337RobHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No198RobHouse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No198RobHouse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No56Solution2.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No49UglyNumberSolution.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/KaoQin.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/ReachNumber.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No53FindNumber.java" />
@@ -177,6 +180,8 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java" />
       </list>
     </option>
   </component>
@@ -247,11 +252,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermutationAndCombination">
-    <configuration name="BinaryTreeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.netease.BinaryTreeValue" />
+  <component name="RunManager" selected="Application.FinalTestProblem2">
+    <configuration name="FinalTestProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblem" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steffan.deu.offer.Tecent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FinalTestProblem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblem2" />
+      <module name="leetCodeAutumn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steffan.deu.offer.Tecent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="PermutationAndCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.PermutationAndCombination" />
@@ -287,11 +309,6 @@
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="erHuiWen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.netease.erHuiWen" />
-      <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -333,19 +350,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.erHuiWen" />
-      <item itemvalue="Application.BinaryTreeValue" />
       <item itemvalue="Application.TeaCaffeProblem" />
       <item itemvalue="Application.TeaCaffeProblem2" />
       <item itemvalue="Application.PermutationAndCombination" />
+      <item itemvalue="Application.FinalTestProblem" />
+      <item itemvalue="Application.FinalTestProblem2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalTestProblem2" />
+        <item itemvalue="Application.FinalTestProblem" />
         <item itemvalue="Application.PermutationAndCombination" />
         <item itemvalue="Application.TeaCaffeProblem2" />
         <item itemvalue="Application.TeaCaffeProblem" />
-        <item itemvalue="Application.BinaryTreeValue" />
-        <item itemvalue="Application.erHuiWen" />
       </list>
     </recent_temporary>
   </component>
@@ -374,12 +391,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -411,20 +428,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No56Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No56Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No53FindNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -738,8 +741,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="54" column="40" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+        <state relative-caret-position="375">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
