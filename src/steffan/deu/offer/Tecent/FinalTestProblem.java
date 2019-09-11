@@ -37,11 +37,15 @@ public class FinalTestProblem {
             while (i==n+1||(stack.peek()!=0)&&score[stack.peek()]>score[i]){
                 int top = stack.pop();
                 if (top==0) break;
-                ans= (int) Math.max(ans,score[top]*(sum[i]-sum[stack.peek()]-score[i]));;
+                System.out.println(stack.peek()+"========="+ "stack.peek()");
+                System.out.println("sum value: "+(sum[i]-sum[stack.peek()]-score[i]));
+                System.out.println("ivalue: " + i);
+                ans= (int) Math.max(ans,score[top]*(sum[i]-sum[stack.peek()]-score[i]));
+                System.out.println(ans);
             }
             if (i<=n) stack.push(i++);
         }
-        System.out.println(ans);
+        System.out.println("finall"+ ans);
 
     }
 }
