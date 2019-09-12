@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/StackFindTwoIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No739DailyTemperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No739DailyTemperature.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/Tecent/FinalTestProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/Tecent/FinalTestProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No496NextGreaterNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No496NextGreaterNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="FinalTestProblem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+            <state relative-caret-position="331">
+              <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,78 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StackFindTwoIndex.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/StackFindTwoIndex.java">
+      <file leaf-file-name="POJ2796.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="466">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FinalTestProblemLeetCodeInput.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblemLeetCodeInput.java">
+      <file leaf-file-name="No84largestRechtangleArea.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstNotRepeatingChar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/FirstNotRepeatingChar.java">
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="18" selection-start-line="4" selection-start-column="8" selection-end-line="16" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PermutationAndCombination.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No496NextGreaterNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#676#685#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No503nextGreaterElementSecond.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No503nextGreaterElementSecond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No739DailyTemperature.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="197">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
             </state>
           </provider>
         </entry>
@@ -108,15 +58,6 @@
       <file leaf-file-name="No739DailyTemperature.jpeg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.jpeg">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="FinalTestProblem2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -139,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/PiaoLiuShip.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/RunningCat.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/No14MaxMultipleOfN.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No33.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java" />
@@ -185,11 +124,13 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No503nextGreaterElementSecond.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblemLeetCodeInput.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java" />
       </list>
     </option>
   </component>
@@ -219,6 +160,13 @@
               <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="MonotonusStack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FinalTestProblem">
+  <component name="RunManager" selected="Application.No84largestRechtangleArea">
     <configuration name="FinalTestProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblem" />
       <module name="leetCodeAutumn" />
@@ -288,24 +236,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No503nextGreaterElementSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No503nextGreaterElementSecond" />
+    <configuration name="No84largestRechtangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.MonotonusStack.No84largestRechtangleArea" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.*" />
+          <option name="PATTERN" value="steffan.deu.offer.MonotonusStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No739DailyTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No739DailyTemperature" />
+    <configuration name="POJ2796" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.MonotonusStack.POJ2796" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.*" />
+          <option name="PATTERN" value="steffan.deu.offer.MonotonusStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,17 +302,17 @@
     <list>
       <item itemvalue="Application.FinalTestProblem" />
       <item itemvalue="Application.No496NextGreaterNumber" />
-      <item itemvalue="Application.No503nextGreaterElementSecond" />
-      <item itemvalue="Application.No739DailyTemperature" />
       <item itemvalue="Application.FinalTestProblemLeetCodeInput" />
+      <item itemvalue="Application.POJ2796" />
+      <item itemvalue="Application.No84largestRechtangleArea" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No84largestRechtangleArea" />
+        <item itemvalue="Application.POJ2796" />
         <item itemvalue="Application.FinalTestProblem" />
-        <item itemvalue="Application.FinalTestProblemLeetCodeInput" />
-        <item itemvalue="Application.No739DailyTemperature" />
-        <item itemvalue="Application.No503nextGreaterElementSecond" />
         <item itemvalue="Application.No496NextGreaterNumber" />
+        <item itemvalue="Application.FinalTestProblemLeetCodeInput" />
       </list>
     </recent_temporary>
   </component>
@@ -393,12 +341,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2676887" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31603774" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -430,27 +378,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/RunningCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/KMPProblem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -705,6 +632,16 @@
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No503nextGreaterElementSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -715,6 +652,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/FirstNotRepeatingChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -722,27 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblemLeetCodeInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -758,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="271">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#676#685#0" expanded="true" />
@@ -767,13 +694,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No503nextGreaterElementSecond.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="197">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="42" column="48" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>

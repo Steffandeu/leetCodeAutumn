@@ -14,8 +14,8 @@ public class No496NextGreaterNumber {
             while (!stack.isEmpty()&&stack.peek()<=nums2[i]){
                 stack.pop();
             }
-            result[i] = stack.isEmpty() ? -1: stack.pop();
-            stack.push(i);
+            result[i] = stack.isEmpty() ? -1: stack.peek();
+            stack.push(nums2[i]);
         }
         return result;
     }
@@ -41,7 +41,7 @@ public class No496NextGreaterNumber {
     public static void main(String[] args) {
         int[] nums1 = new int[]{3,1,2,4};
         int[] nums2 = new int[]{3,1,2,4};
-        int[] result = nextGreaterElement2(nums1,nums2);
+        int[] result = nextGreaterElement(nums1,nums2);
         for (int i = 0; i < result.length; i++) {
             System.out.println(result[i]);
         }
