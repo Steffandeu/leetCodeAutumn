@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No84LargestRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No496NextGreaterNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No496NextGreaterNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,11 +36,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No84largestRechtangleArea.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No84largestRechtangleArea.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="256">
+              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No84LargestRectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No84LargestRectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No76MinimumWindowsSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No76MinimumWindowsSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No209SildingWindowsSubarraySum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No209SildingWindowsSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -80,9 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/No14MaxMultipleOfN.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No33.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/repeatedNumberInArray.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/RechtOverlay.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No13RobotMovement.java" />
@@ -131,6 +161,9 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No496NextGreaterNumber.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No84LargestRectangle.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No76MinimumWindowsSubstring.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No209SildingWindowsSubarraySum.java" />
       </list>
     </option>
   </component>
@@ -160,13 +193,6 @@
               <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="MonotonusStack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No84largestRechtangleArea">
+  <component name="RunManager" selected="Application.No209SildingWindowsSubarraySum">
     <configuration name="FinalTestProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblem" />
       <module name="leetCodeAutumn" />
@@ -214,19 +240,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FinalTestProblemLeetCodeInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblemLeetCodeInput" />
+    <configuration name="No209SildingWindowsSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No209SildingWindowsSubarraySum" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.Tecent.*" />
+          <option name="PATTERN" value="steffan.deu.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No496NextGreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No496NextGreaterNumber" />
+    <configuration name="No84LargestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No84LargestRectangle" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -301,18 +327,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.FinalTestProblem" />
-      <item itemvalue="Application.No496NextGreaterNumber" />
-      <item itemvalue="Application.FinalTestProblemLeetCodeInput" />
       <item itemvalue="Application.POJ2796" />
       <item itemvalue="Application.No84largestRechtangleArea" />
+      <item itemvalue="Application.No84LargestRectangle" />
+      <item itemvalue="Application.No209SildingWindowsSubarraySum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No209SildingWindowsSubarraySum" />
+        <item itemvalue="Application.No84LargestRectangle" />
         <item itemvalue="Application.No84largestRechtangleArea" />
         <item itemvalue="Application.POJ2796" />
         <item itemvalue="Application.FinalTestProblem" />
-        <item itemvalue="Application.No496NextGreaterNumber" />
-        <item itemvalue="Application.FinalTestProblemLeetCodeInput" />
       </list>
     </recent_temporary>
   </component>
@@ -378,27 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/KMPProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/repeatedNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="28" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No13RobotMovement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1504">
@@ -720,8 +725,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="256">
+          <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No84LargestRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No76MinimumWindowsSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No209SildingWindowsSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>

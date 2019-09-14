@@ -13,9 +13,9 @@ public class No84largestRechtangleArea {
             }
             stack.push(i);
         }
-//        while (stack.peek()!=-1){
-//            maxArea = Math.max(maxArea,height[stack.pop()]*(height.length-stack.peek()-1));
-//        }
+        while (stack.peek()!=-1){
+            maxArea = Math.max(maxArea,height[stack.pop()]*(height.length-stack.peek()-1));
+        }
         return maxArea;
 
     }
