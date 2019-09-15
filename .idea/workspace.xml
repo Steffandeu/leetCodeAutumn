@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="" />
+    <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/August360/ballonProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/CMB/ChickenAndDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/CMB/stockProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/CMB/thriftShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/CMB/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,42 +20,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="POJ2796.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/POJ2796.java">
+      <file leaf-file-name="eatCatFood.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/eatCatFood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="208">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No84largestRechtangleArea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/MonotonusStack/No84largestRechtangleArea.java">
+      <file leaf-file-name="EncodingMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/EncodingMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+            <state relative-caret-position="120">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No84LargestRectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No84LargestRectangle.java">
+      <file leaf-file-name="geziJump.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/geziJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No76MinimumWindowsSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No76MinimumWindowsSubstring.java">
+      <file leaf-file-name="ballonProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/August360/ballonProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="240">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/RangeSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,60 +77,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No209SildingWindowsSubarraySum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No209SildingWindowsSubarraySum.java">
+      <file leaf-file-name="ChickenAndDuck.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/ChickenAndDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="11" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="422">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No718MaximumLengthOfRepeatedSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No718MaximumLengthOfRepeatedSubarray.java">
+      <file leaf-file-name="KaoQin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/KaoQin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="64">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No222CountCompleteTreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No222CountCompleteTreeNode.java">
+      <file leaf-file-name="PiaoLiuShip.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/PiaoLiuShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-              <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="64">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No33.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No33.java">
+      <file leaf-file-name="thriftShip.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/thriftShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No567PermutationInString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RechtOverlay.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RechtOverlay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="384">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -132,15 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/FirstNotRepeatingChar.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ByteDance/ChangeStringPosition.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ByteDance/MinimumChangeStringPosition.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/IntegerOneCount.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ThreadLocalUntils.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ThreadLocalUntilsRe.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/LeetCode458PoorPig.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/leetcodeNo10Problem.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/lcNo10DpSolution.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No121Stock.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No337RobHouse.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/HouseRobberThree.java" />
@@ -183,6 +175,15 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No718MaximumLengthOfRepeatedSubarray.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No222CountCompleteTreeNode.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/eatCatFood.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/stockProblem.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/ChickenAndDuck.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/thriftShip.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/EncodingMethod.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/CMB/geziJump.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/August360/ballonProblem.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/test.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ctrip/RangeSearch.java" />
       </list>
     </option>
   </component>
@@ -212,6 +213,34 @@
               <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="August360" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="ByteDance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="CMB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrip" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,64 +276,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No209SildingWindowsSubarraySum">
-    <configuration name="FinalTestProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.Tecent.FinalTestProblem" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="ChickenAndDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.CMB.ChickenAndDuck" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.Tecent.*" />
+          <option name="PATTERN" value="steffan.deu.offer.CMB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No209SildingWindowsSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No209SildingWindowsSubarraySum" />
+    <configuration name="EncodingMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.CMB.EncodingMethod" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="No84LargestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No84LargestRectangle" />
-      <module name="leetCodeAutumn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="No84largestRechtangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.MonotonusStack.No84largestRechtangleArea" />
-      <module name="leetCodeAutumn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.MonotonusStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="POJ2796" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.MonotonusStack.POJ2796" />
-      <module name="leetCodeAutumn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.MonotonusStack.*" />
+          <option name="PATTERN" value="steffan.deu.offer.CMB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ballonProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.August360.ballonProblem" />
+      <module name="leetCodeAutumn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steffan.deu.offer.August360.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="geziJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.CMB.geziJump" />
+      <module name="leetCodeAutumn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steffan.deu.offer.CMB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.test" />
+      <module name="leetCodeAutumn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steffan.deu.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -345,19 +374,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FinalTestProblem" />
-      <item itemvalue="Application.POJ2796" />
-      <item itemvalue="Application.No84largestRechtangleArea" />
-      <item itemvalue="Application.No84LargestRectangle" />
-      <item itemvalue="Application.No209SildingWindowsSubarraySum" />
+      <item itemvalue="Application.ChickenAndDuck" />
+      <item itemvalue="Application.EncodingMethod" />
+      <item itemvalue="Application.geziJump" />
+      <item itemvalue="Application.ballonProblem" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.No209SildingWindowsSubarraySum" />
-        <item itemvalue="Application.No84LargestRectangle" />
-        <item itemvalue="Application.No84largestRechtangleArea" />
-        <item itemvalue="Application.POJ2796" />
-        <item itemvalue="Application.FinalTestProblem" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ballonProblem" />
+        <item itemvalue="Application.geziJump" />
+        <item itemvalue="Application.EncodingMethod" />
+        <item itemvalue="Application.ChickenAndDuck" />
       </list>
     </recent_temporary>
   </component>
@@ -386,12 +415,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31603774" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31603774" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -423,192 +452,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/IntegerOneCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ByteDance/MinimumChangeStringPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/leetcodeNo10Problem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1312">
-          <caret line="82" column="32" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/LeetCode458PoorPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/lcNo10DpSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No121Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/HouseRobberThree.java" />
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No334ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
-          <folding>
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/git">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution1.java" />
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/LinkedListPartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoDimensionArray/solution2.java" />
-    <entry file="file://$PROJECT_DIR$/src/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverseDeduce">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/apache/Thread/lock/LockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testForInout.java" />
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No213RobHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No198RobHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No337RobHouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/netease/increaseTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/netease/erHuiWen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/netease/BinaryTreeValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/netease/CaffeDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No410SplitArrayLargestSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -768,13 +611,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No222CountCompleteTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/KMPProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/LeetCode458PoorPig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No13RobotMovement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/LeastKProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-478">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#887#888#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -786,10 +668,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No567PermutationInString.java">
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No222CountCompleteTreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="272">
+          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/lcNo10DpSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/leetcodeNo10Problem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="82" column="32" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/No14MaxMultipleOfN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/ReachNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/ReachTargetSolution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/RunningCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverseDeduce">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/LinkedListPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No121Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/stockProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/ChickenAndDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/PiaoLiuShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/thriftShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/KaoQin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/eatCatFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/EncodingMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/CMB/geziJump.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/August360/ballonProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/ctrip/RangeSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

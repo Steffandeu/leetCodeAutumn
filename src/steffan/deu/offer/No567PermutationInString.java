@@ -24,4 +24,8 @@ public class No567PermutationInString {
         }
         return true;
     }
+
+    public static void main(String[] args) {
+        System.out.println('z'-'a');
+    }
 }
