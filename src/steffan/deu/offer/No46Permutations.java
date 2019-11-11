@@ -38,9 +38,16 @@ public class No46Permutations {
     public static void main(String[] args) {
         int[] nums = new int[]{1,2,3};
         List<List<Integer>> result = permute(nums);
-        System.out.println(result.size());
-        for (Integer integer: result.get(3)) {
-            System.out.println(integer);
+//        System.out.println(result.size());
+//        for (Integer integer: result.get(3)) {
+//            System.out.println(integer);
+//        }
+        for (List<Integer> list:
+             result) {
+            for (int i = 0; i < list.size(); i++) {
+                System.out.print(list.get(i)+" ");
+            }
+            System.out.println();
         }
     }
 }

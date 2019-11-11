@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd81b1cd-bfe0-4489-81b6-7620fa0a5338" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No17LetterCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No22GenerateParenteses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No32LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No455BiscuitProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No621PriorityQueueSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No621TaskScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/steffan/deu/offer/exam01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_practice/CengciTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_practice/PrintLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_practice/RebuildTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_practice/ShunOrderPrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_practice/zhengzeBiaodaShi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeRelated/TraverseTree/NoDiGuiTraverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No12RomanToInteger$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No12RomanToInteger$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No12RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No12RomanToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/Backtracking/DPPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/Backtracking/DPPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No46Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No46Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No621PriorityQueueSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/No621PriorityQueueSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/Tecent/exam02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/exam01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeAutumn/steffan/deu/offer/exam3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backtracking/DPPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backtracking/DPPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,6 +24,106 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="No46Permutations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No33.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No33.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DPPalindrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Backtracking/DPPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Structure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeRelated/BinarySearchTree/Structure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solutiion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraceSum/Solutiion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraceSumCount/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiGuiTraverse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraverseTree/DiGuiTraverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoDiGuiTraverse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraverseTree/NoDiGuiTraverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <folding>
+                <element signature="e#256#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeaCaffeProblem2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-585">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="No739DailyTemperature.jpeg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,22 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverse.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ctrip/BracketStringReverseDeduce" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/ctrip/solution2.java" />
-        <option value="$PROJECT_DIR$/src/apache/Thread/lock/LockDemo.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No410SplitArrayLargestSum.java" />
-        <option value="$PROJECT_DIR$/src/erHuiWen.java" />
-        <option value="$PROJECT_DIR$/src/testForInout.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTreeValue.java" />
-        <option value="$PROJECT_DIR$/src/CaffeDrink.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/increaseTree.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/netease/increaseTree.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/PermutationAndCombination.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem2.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No503nextGreaterElementSecond.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblem.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/Tecent/FinalTestProblemLeetCodeInput.java" />
@@ -88,12 +176,28 @@
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No392IsSubsequence.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No12RomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No32LongestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java" />
         <option value="$PROJECT_DIR$/src/steffan/deu/offer/No621PriorityQueueSolution.java" />
+        <option value="$PROJECT_DIR$/src/PAT.java" />
+        <option value="$PROJECT_DIR$/src/erFenChaZhao.java" />
+        <option value="$PROJECT_DIR$/src/transportMatrix.java" />
+        <option value="$PROJECT_DIR$/src/ShunOrderPrintMatrix.java" />
+        <option value="$PROJECT_DIR$/src/shuzhiZhengshuCiFang.java" />
+        <option value="$PROJECT_DIR$/src/CengciTraverse.java" />
+        <option value="$PROJECT_DIR$/src/NiXuDuiArray.java" />
+        <option value="$PROJECT_DIR$/src/isExistHuan.java" />
+        <option value="$PROJECT_DIR$/src/replaceSpace.java" />
+        <option value="$PROJECT_DIR$/src/TwoDimensionArray/PrintLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/PrintLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/October_practice/RebuildTree.java" />
+        <option value="$PROJECT_DIR$/src/October_practice/MatrixPath.java" />
+        <option value="$PROJECT_DIR$/src/Backtracking/DPPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java" />
+        <option value="$PROJECT_DIR$/src/TreeRelated/TraverseTree/DiGuiTraverse.java" />
+        <option value="$PROJECT_DIR$/src/TreeRelated/TraverseTree/NoDiGuiTraverse.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -102,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,7 +224,62 @@
               <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Fibonaccisequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Jugeofquadraticsum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MaximumWindows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PrintListFromheadtoTail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ReplaceSpace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ReturnSu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="August360" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
@@ -127,13 +288,24 @@
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="Tecent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeRelated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetCodeAutumn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetCodeAutumn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TreeRelated" type="462c0819:PsiDirectoryNode" />
+              <item name="TraverseTree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,7 +313,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -161,25 +333,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No621PriorityQueueSolution">
-    <configuration name="No12RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No12RomanToInteger" />
+  <component name="RunManager" selected="Application.No46Permutations">
+    <configuration name="CengciTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October_practice.CengciTraverse" />
+      <module name="leetCodeAutumn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DPPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backtracking.DPPalindrome" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.CMBCC.*" />
+          <option name="PATTERN" value="Backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No392IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No392IsSubsequence" />
+    <configuration name="MatrixPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="October_practice.MatrixPath" />
       <module name="leetCodeAutumn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.CMBCC.*" />
+          <option name="PATTERN" value="October_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,35 +369,18 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.CMBCC.*" />
+          <option name="PATTERN" value="steffan.deu.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="No621PriorityQueueSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.No621PriorityQueueSolution" />
+    <configuration name="ShunOrderPrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October_practice.ShunOrderPrintMatrix" />
       <module name="leetCodeAutumn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.CMBCC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="exam02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steffan.deu.offer.CMBCC.exam02" />
-      <module name="leetCodeAutumn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steffan.deu.offer.CMBCC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -259,19 +421,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.No392IsSubsequence" />
-      <item itemvalue="Application.exam02" />
-      <item itemvalue="Application.No12RomanToInteger" />
+      <item itemvalue="Application.ShunOrderPrintMatrix" />
+      <item itemvalue="Application.CengciTraverse" />
+      <item itemvalue="Application.MatrixPath" />
+      <item itemvalue="Application.DPPalindrome" />
       <item itemvalue="Application.No46Permutations" />
-      <item itemvalue="Application.No621PriorityQueueSolution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.No621PriorityQueueSolution" />
         <item itemvalue="Application.No46Permutations" />
-        <item itemvalue="Application.No12RomanToInteger" />
-        <item itemvalue="Application.No392IsSubsequence" />
-        <item itemvalue="Application.exam02" />
+        <item itemvalue="Application.DPPalindrome" />
+        <item itemvalue="Application.MatrixPath" />
+        <item itemvalue="Application.CengciTraverse" />
+        <item itemvalue="Application.ShunOrderPrintMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -290,34 +452,63 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.31603774" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" weight="0.254717" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900944" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31603774" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49930555" visible="true" weight="0.254717" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32900944" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50069445" side_tool="true" weight="0.31603774" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900944" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -336,58 +527,366 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No455BiscuitProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No621TaskScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No621PriorityQueueSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/Backtracking/countPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No17LetterCombination.java">
+    <entry file="file://$PROJECT_DIR$/src/DP/MaxCutingForce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaxCuting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/CengciTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/erFenChaZhao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/isExistHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/NiXuDuiArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/PrintLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/replaceSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/transportMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/zhengzeBiaodaShi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/shuzhiZhengshuCiFang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/ShunOrderPrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/ReconstructBinaryTree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="12" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/MaximumDepth/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/RebuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Backtracking/Palindromepartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeOrganizedArray/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/GreedyProblem/No55JumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No213RobHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No198RobHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/RobProblem/No337RobHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumWindows/ForceSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepeatedNumberInArray/Duplicationzwei.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepeatedNumberInArray/Duplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepeatedNumberInArray/NormalMehod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReplaceSpace/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/October_practice/MatrixPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReplaceSpace/SpaceTrick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jugeofquadraticsum/sqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumWindows/Soltuion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListFromheadtoTail/PrintArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListFromheadtoTail/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListFromheadtoTail/RecursiveSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintListFromheadtoTail/TetsArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP/MaxForcingOpti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReturnSu/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="60" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/August360/ballonProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No53FindNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No49UglyNumberSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No46Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No392IsSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No33.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Backtracking/DPPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/BinarySearchTree/Structure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraceSum/Solutiion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraceSumCount/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/No739DailyTemperature.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraverseTree/DiGuiTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreeRelated/TraverseTree/NoDiGuiTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#256#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/steffan/deu/offer/Tecent/TeaCaffeProblem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
